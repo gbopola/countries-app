@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://github.com/gbopola/countries-app/blob/master/screencapture-localhost-3000-2022-04-08-19_54_54.png" width="800" />
+<img src="https://github.com/gbopola/countries-app/blob/master/screencapture-localhost-3000-2022-04-08-19_54_54.png" width="800" height="600" />
 
 ### Links
 
