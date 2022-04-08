@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://stupefied-montalcini-c982aa.netlify.app/](https://stupefied-montalcini-c982aa.netlify.app/)
+- Live Site URL: [https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/](https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/)
 - Solution URL: [https://github.com/gbopola/countries-app](https://github.com/gbopola/countries-app)
 
 ## My process
