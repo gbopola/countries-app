@@ -1,7 +1,5 @@
-import { useEffect, useState } from 'react';
 import { CountryListStyles, LoaderWrapper } from '../styles/CountryListStyles';
 import Country from './Country';
-import axios from 'axios';
 import Header from '../components/Header';
 import { Link } from 'react-router-dom';
 import BeatLoader from 'react-spinners/BeatLoader';
