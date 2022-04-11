@@ -17,7 +17,8 @@ function CountryList({ country, currCountry, regions, setCountries }) {
       } else {
         currCountry.map(
           (c) =>
-            c.name.common.toLowerCase().includes(val) && filteredCountries.push(c)
+            c.name.common.toLowerCase().includes(val.toLowerCase()) &&
+            filteredCountries.push(c)
         );
         setCountries(filteredCountries);
       }

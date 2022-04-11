@@ -118,22 +118,22 @@ function CountryDetail({ match, allCountries }) {
                 </CountryInfoDetails>
                 <CountryBorders>
                   <p>
-                    <span>Border Countries: </span>
-                    {!i.borders && 'N/A'}
+                    <span>Border Countries: {!i.borders && 'N/A'}</span>
                   </p>
-                  {i.borders.map((border) => {
-                    const borderName = getBorderCountryName(allCountries, border);
-                    return (
-                      <ButtonWrapper>
-                        <Link
-                          className="country-links"
-                          to={`/country/${borderName && borderName.toLowerCase()}`}
-                        >
-                          <Button>{borderName}</Button>
-                        </Link>
-                      </ButtonWrapper>
-                    );
-                  })}
+                  {i.borders &&
+                    i.borders.map((border) => {
+                      const borderName = getBorderCountryName(allCountries, border);
+                      return (
+                        <ButtonWrapper>
+                          <Link
+                            className="country-links"
+                            to={`/country/${borderName && borderName.toLowerCase()}`}
+                          >
+                            <Button>{borderName}</Button>
+                          </Link>
+                        </ButtonWrapper>
+                      );
+                    })}
                 </CountryBorders>
               </CountryInfo>
             </CountryDetailsWrapper>
