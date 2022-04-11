@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://github.com/gbopola/countries-app/blob/master/screencapture-localhost-3000-2022-04-08-19_54_54.png" width="800" />
+<img src="https://github.com/gbopola/countries-app/blob/master/screencapture-localhost-3000-2022-04-08-19_54_54.png" width="600" />
 
 ### Links
 
-- Live Site URL: [https://stupefied-montalcini-c982aa.netlify.app/](https://stupefied-montalcini-c982aa.netlify.app/)
+- Live Site URL: [https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/](https://6250889e63e51100b9e7212a--creative-souffle-fde186.netlify.app/)
 - Solution URL: [https://github.com/gbopola/countries-app](https://github.com/gbopola/countries-app)
 
 ## My process
